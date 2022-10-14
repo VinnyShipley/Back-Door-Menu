@@ -10,7 +10,7 @@
   "license": "MIT",
   "require": {
   "components/jquery": ">=1.10.2,<1.11-dev",
-  "components/modernizr": ">=2.6.2",
+  "components/modernizer": ">=2.6.2",
   "components/normalize.css": "1.*"
   },
   "extra": {
