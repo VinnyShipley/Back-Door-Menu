@@ -1,0 +1,19 @@
+body{
+  background: url('/assets/Hereditary_2018_Charlies_shocking_car_death_scene_HIGH_QUAL.gif') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: azure;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 15%;
+}
+
+li {
+  list-style-type: none;
+  text-align: center;
+  font-size:x-large;
+}
