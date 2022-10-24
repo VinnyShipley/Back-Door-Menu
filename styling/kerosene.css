@@ -1,0 +1,19 @@
+body{
+  background: url('/assets/The_Lighthouse_Exclusive_Movie_Clip__Dance_Winslow_2019__Mo.gif') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: azure;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 15%;
+}
+
+li {
+  list-style-type: none;
+  text-align: center;
+  font-size:x-large;
+}
