@@ -1,9 +1,6 @@
 body{
     background-image: url('/assets/TV_Static_In_The_Dark (1).gif');
     background-size: cover;
-    
-    
-    
     height: 100vh;
     padding:0;
     margin:0;
@@ -25,6 +22,7 @@ h1 {
 
 li {
   color: azure;
+  list-style-type: none;
 }
 
 
