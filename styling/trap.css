@@ -10,10 +10,16 @@ body{
 h1 {
   text-align: center;
   padding-top: 15%;
+  padding-left: 1em;
 }
 
 li {
   list-style-type: none;
   text-align: center;
   font-size:x-large;
+}
+
+h2 {
+  text-align: center;
+  padding-left: 2em;
 }
