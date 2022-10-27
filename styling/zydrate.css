@@ -10,11 +10,11 @@ body{
 h1 {
   text-align: center;
   padding-top: 15%;
-  padding-left: 1em;
+  padding-right: 1.75em;
 }
 
 ul {
-  padding-right: .4em;
+  padding-right: 5.8em;
 }
 
 li {
@@ -25,5 +25,4 @@ li {
 
 h2 {
   text-align: center;
-  padding-left: 1.45em;
-}
+  padding-right: 2em;
