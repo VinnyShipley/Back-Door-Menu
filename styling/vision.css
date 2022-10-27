@@ -9,7 +9,10 @@ body{
 h1 {
   text-align: center;
   padding-top: 15%;
-  padding-left: 1em;
+}
+
+ul {
+  padding-right: 2.4em;
 }
 
 li {
@@ -20,5 +23,5 @@ li {
 
 h2 {
   text-align: center;
-  padding-left: 2em;
+
 }
